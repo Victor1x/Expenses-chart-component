@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Expenses chart component</title>
+    <link rel="stylesheet" href="src/style/style.css" />
+    <link rel="stylesheet" href="src/style/responsiveness.css" />
+  </head>
+  <body>
+    <main class="container">
+      <section class="balance__logo__container">
+        <div class="balance">
+          <p>My balance</p>
+          <h2>$921.48</h2>
+        </div>
+        <div class="logo">
+          <img src="src/assets/images/logo.svg" alt="" class="logo__img" />
+        </div>
+      </section>
+      <section class="semana__valor__total">
+        <div class="div_title">
+          <h2 class="title__spending">Spending - Last 7 days</h2>
+        </div>
+
+        <ul class="weekly-expenses">
+          <li class="week-day">
+            <span class="span__value span__mon">$10</span>
+            <div class="div_mon div_day"></div>
+            <p class="day mon">mon</p>
+          </li>
+
+          <li class="week-day">
+            <span class="span__value span__tue"></span>
+            <div class="div_tue div_day"></div>
+            <p class="day tue">tue</p>
+          </li>
+
+          <li class="week-day">
+            <span class="span__value span__wed"></span>
+            <div class="div_wed div_day"></div>
+            <p class="day wed">wed</p>
+          </li>
+
+          <li class="week-day">
+            <span class="span__value span__thu"></span>
+            <div class="div_thu div_day"></div>
+            <p class="day thu">thu</p>
+          </li>
+
+          <li class="week-day">
+            <span class="span__value span__fri"></span>
+            <div class="div_fri div_day"></div>
+            <p class="day fri">fri</p>
+          </li>
+
+          <li class="week-day">
+            <span class="span__value span__sat"></span>
+            <div class="div_sat div_day"></div>
+            <p class="day sat">sat</p>
+          </li>
+
+          <li class="week-day">
+            <span class="span__value span__sun"></span>
+            <div class="div_sun div_day"></div>
+            <p class="day sun">sun</p>
+          </li>
+        </ul>
+        <div class="linha__vertical"></div>
+        <div class="total__this__month__container">
+          <div class="total__this__month">
+            <p>Total this month</p>
+            <h3>$478.33</h3>
+          </div>
+          <div class="percentage">
+            <p class="percentage__value">+2.4%</p>
+            <p class="text">from last month</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- <div class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="#">Your Name Here</a>.
+    </div> -->
+    <script src="src/script/script.js"></script>
+  </body>
+</html>

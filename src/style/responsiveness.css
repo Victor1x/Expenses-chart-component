@@ -1,0 +1,44 @@
+@media (max-width: 470px) {
+  .div_day {
+    width: 40px;
+  }
+  .span__value {
+    width: 40px;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .semana__valor__total {
+    padding:10px;
+  }
+  .title__spending {
+    font-size: 24px;
+  }
+
+  .total__this__month p {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--Medium-brown);
+  }
+  .total__this__month h3 {
+    font-size: 32px;
+    font-weight: 700;
+  }
+  .percentage__value {
+    font-weight: 700;
+    text-align: end;
+  }
+  .text {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--Medium-brown);
+  }
+}
+@media (max-width: 340px) {
+  .div_day {
+    width: 35px;
+  }
+  .span__value {
+    width: 35px;
+    font-size: 10px;
+  }
+}
