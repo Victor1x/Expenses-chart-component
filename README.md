@@ -17,8 +17,30 @@ O **Expenses Chart Component** é um gráfico de barras interativo que exibe os 
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-# 🎯 Como Usar
+## 🎯 Como Usar
 
 1. Faça o clone deste repositório  
    ```bash
    git clone https://github.com/seu-usuario/expenses-chart-component.git
+
+##📂 Estrutura do Projeto
+
+📁 expenses-chart-component<br>
+│
+├── 📁 src<br>
+│   ├── 📁 assets<br>
+│   │   ├── 📁 design   &nbsp; ⇒ Esquemas e mockups (desktop, mobile etc.)<br>
+│   │   └── 📁 images   &nbsp; ⇒ Logo, favicon e ícones<br>
+│   │
+│   ├── 📁 style<br>
+│   │     ├── style.css<br>
+│   │     └── responsiveness.css<br>
+│   │
+│   └── 📁 script<br>
+│         └── script.js<br>
+│
+├── 📄 index.html      &nbsp; ⇒ Estrutura principal da página<br>
+├── 📄 style-guide.md  &nbsp; ⇒ Guia de estilo e especificações do design<br>
+└── 📄 README.md       &nbsp; ⇒ Documentação (este arquivo)<br>
+
+
