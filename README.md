@@ -39,5 +39,10 @@ O **Expenses Chart Component** é um gráfico de barras interativo que exibe os 
 ## 🖥️ Versão Desktop e Mobile
 
 <div align="center">
-<img src="assets/images\Group 2.svg" width="800px">
+<img src="src/assets/images/Group 2.svg" width="800px">
 </div>
+
+## 🏆 Créditos
+
+Desenvolvido por João Victor Almeida.
+Inspirado no desafio “Expenses Chart Component” do Frontend Mentor.
