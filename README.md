@@ -26,18 +26,18 @@ O **Expenses Chart Component** é um gráfico de barras interativo que exibe os 
 ##📂 Estrutura do Projeto
 
 📁 expenses-chart-component<br>
-│
+│<br>
 ├── 📁 src<br>
-│   ├── 📁 assets<br>
-│   │   ├── 📁 design   &nbsp; ⇒ Esquemas e mockups (desktop, mobile etc.)<br>
-│   │   └── 📁 images   &nbsp; ⇒ Logo, favicon e ícones<br>
-│   │<br>
-│   ├── 📁 style<br>
-│   │     ├── style.css<br>
-│   │     └── responsiveness.css<br>
-│   │<br>
-│   └── 📁 script<br>
-│         └── script.js<br>
+│&nbsp;├── 📁 assets<br>
+│&nbsp;   │   ├── 📁 design   &nbsp; ⇒ Esquemas e mockups (desktop, mobile etc.)<br>
+│&nbsp;   │   └── 📁 images   &nbsp; ⇒ Logo, favicon e ícones<br>
+│&nbsp;   │<br>
+│&nbsp;   ├── 📁 style<br>
+│&nbsp;   │     ├── style.css<br>
+│&nbsp;   │     └── responsiveness.css<br>
+│&nbsp;   │<br>
+│&nbsp;   └── 📁 script<br>
+│&nbsp;       └── script.js<br>
 │<br>
 ├── 📄 index.html      &nbsp; ⇒ Estrutura principal da página<br>
 ├── 📄 style-guide.md  &nbsp; ⇒ Guia de estilo e especificações do design<br>
