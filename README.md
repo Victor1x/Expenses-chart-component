@@ -4,10 +4,10 @@
 
 O **Expenses Chart Component** é um gráfico de barras interativo que exibe os gastos ao longo de uma semana. Ao passar o mouse sobre cada barra, o valor correspondente é exibido, e o dia atual recebe um destaque visual. Este projeto foi desenvolvido para reforçar habilidades em HTML, CSS e JavaScript, incluindo:
 
-- Manipulação dinâmica do DOM  
-- Consumo de dados a partir de um array/JSON  
-- Interação via eventos (hover, focus)  
-- Design responsivo e acessível 
+- Manipulação dinâmica do DOM
+- Consumo de dados a partir de um array/JSON
+- Interação via eventos (hover, focus)
+- Design responsivo e acessível
 
 ## 💻 Tecnologias Utilizadas
 
@@ -19,7 +19,7 @@ O **Expenses Chart Component** é um gráfico de barras interativo que exibe os 
 
 ## 🎯 Como Usar
 
-1. Faça o clone deste repositório  
+1. Faça o clone deste repositório
    ```bash
    git clone https://github.com/seu-usuario/expenses-chart-component.git
 
@@ -39,5 +39,5 @@ O **Expenses Chart Component** é um gráfico de barras interativo que exibe os 
 ## 🖥️ Versão Desktop e Mobile
 
 <div align="center">
-<img src="assets/images/Demonstração.svg" width="800px">
+<img src="assets/images\Group 2.svg" width="800px">
 </div>
