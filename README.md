@@ -30,7 +30,7 @@ O **Expenses Chart Component** é um gráfico de barras interativo que exibe os 
 ├── 📁 src<br>
 │   ├── 📁 assets<br>
 │   │   ├── 📁 design   &nbsp; ⇒ Esquemas e mockups (desktop, mobile etc.)<br>
-│   │   └── 📁 images   &nbsp; ⇒ Logo, favicon e ícones
+│   │   └── 📁 images   &nbsp; ⇒ Logo, favicon e ícones<br>
 │   │
 │   ├── 📁 style<br>
 │   │     ├── style.css<br>
