@@ -23,7 +23,7 @@ O **Expenses Chart Component** é um gráfico de barras interativo que exibe os 
    ```bash
    git clone https://github.com/seu-usuario/expenses-chart-component.git
 
-##📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 📁 ecommerce-product-page<br>
 │── 📁 assets<br>
@@ -34,4 +34,10 @@ O **Expenses Chart Component** é um gráfico de barras interativo que exibe os 
 │── 📄 data.json        &nbsp; ==> JSON<br>
 └── 📄 README.md        &nbsp; ⇒ Documentação (este arquivo)<br>
 
+## 📸 Demonstração
 
+## 🖥️ Versão Desktop e Mobile
+
+<div align="center">
+<img src="assets/images/Demonstração.svg" width="800px">
+</div>
