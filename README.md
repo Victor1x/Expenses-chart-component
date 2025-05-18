@@ -44,5 +44,5 @@ O **Expenses Chart Component** é um gráfico de barras interativo que exibe os 
 
 ## 🏆 Créditos
 
-Desenvolvido por João Victor Almeida.
+Desenvolvido por João Victor Almeida.<br>
 Inspirado no desafio “Expenses Chart Component” do Frontend Mentor.
